@@ -4,3 +4,5 @@
 3-git reset . (reinicia el repositorio) (no es recomendable)
 
 4-git commit (guarda los cambios)
+5- git checkout --. (reinicia el proyecto a su estado original o última versión)
+6-git log (muestra el historial de cambios)
