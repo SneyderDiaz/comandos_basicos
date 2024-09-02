@@ -13,7 +13,8 @@
 11- git branch -d (elimina ramas)
 12- git remote (muestra información del repositorio remoto)
 13- git push (envía cambios al repositorio remoto)
-14- git main (descarga cambios del repositorio remoto)
+14- git commit -am ( guarda cambios y agrega mensaje)
+
 
 
 
