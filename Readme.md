@@ -8,4 +8,6 @@
 6-git log (muestra el historial de cambios)
 7- git commit --amend (modifica el último commit)
 8- git checkout -b rama-heroes (crar ramas)
+9- checkout master( regresa a la rama principal)
+
 
